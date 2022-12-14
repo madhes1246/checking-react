@@ -18,4 +18,4 @@ export const aurthmaticsOperaction = createSlice ({
 
 export const {increment,decrement,inctementByAmount}=aurthmaticsOperaction.actions;
 
-export default aurthmaticsOperaction.reducer;
+export default aurthmaticsOperaction;
