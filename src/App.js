@@ -10,11 +10,10 @@ const App = () => {
   return (
     <React.Fragment>
       <h1>Welcome to</h1>
-      <div>running my first project</div>
-      <div>how to run live website</div>
-      <div>late response but it's possible how let's we do</div>
-      <div>demo</div>
-    <p> changes from git repo</p>
+      <div>runni</div>
+      <div>how to run li</div>
+
+
       {name}
       <button onClick={() => {
         dispatch(increment());
