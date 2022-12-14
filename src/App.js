@@ -14,6 +14,7 @@ const App = () => {
       <div>how to run live website</div>
       <div>late response but it's possible how let's we do</div>
       <div>demo</div>
+    <p> changes from git repo</p>
       {name}
       <button onClick={() => {
         dispatch(increment());
